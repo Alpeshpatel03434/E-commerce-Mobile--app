@@ -5,7 +5,7 @@ The main goal of my mobile app to Selling a Item like electronic, mobile, etc..,
 In app user can do multiple task he/she can view product, add item in bucket, place order, track order. Seller can manage users and order tracking. Admin handle new seller add and manage all Activity.
 Developed this mobile app using android, java, xml design, firebase database.
 
-<img src="temp/img1.jpg" width="400" height="300" />
+<img src="temp/img1.jpg" width="400" height="600" />
 
 <img src="temp/img2.jpg" />
 
