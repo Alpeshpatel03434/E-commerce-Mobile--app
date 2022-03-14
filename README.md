@@ -7,26 +7,26 @@ Developed this mobile app using android, java, xml design, firebase database.
 
 <img src="temp/img1.jpg" width="400" height="600" />
 
-<img src="temp/img2.jpg" />
+<img src="temp/img2.jpg" width="400" height="600" />
 
-<img src="temp/img3.jpg" />
+<img src="temp/img3.jpg" width="400" height="600" />
 
-<img src="temp/img4.jpg" />
+<img src="temp/img4.jpg"  width="400" height="600" />
 
-<img src="temp/img5.jpg" />
+<img src="temp/img5.jpg" width="400" height="600" />
 
-<img src="temp/img6.jpg" />
+<img src="temp/img6.jpg" width="400" height="600" />
 
-<img src="temp/img7.jpg" />
+<img src="temp/img7.jpg" width="400" height="600" />
 
-<img src="temp/img8.jpg" />
+<img src="temp/img8.jpg" width="400" height="600" />
 
-<img src="temp/img9.jpg" />
+<img src="temp/img9.jpg" width="400" height="600" />
 
-<img src="temp/img10.jpg" />
+<img src="temp/img10.jpg" width="400" height="600" />
 
-<img src="temp/img11.jpg" />
+<img src="temp/img11.jpg" width="400" height="600" />
 
-<img src="temp/img12.jpg" />
+<img src="temp/img12.jpg" width="400" height="600" />
 
-<img src="temp/img13.jpg" />
+<img src="temp/img13.jpg" width="400" height="600" />
